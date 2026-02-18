@@ -1,0 +1,19 @@
+#Contingut recomanat
+
+#Entorns virtuals
+
+venv/
+
+
+#Fitxers Python temporals
+
+__pycache__/
+*.pyc
+
+#Base de dades local
+
+*.db
+
+#Variables d entorn
+
+.env
